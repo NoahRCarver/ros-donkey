@@ -3,18 +3,6 @@ joy_node:
   coalesce_interval: 0.0333
   deadzone: 0.01
 
-raspicam_node:
-  camera_frame_id: raspicam
-  camera_id: 0
-  camera_info_url: package://raspicam_node/camera_info/camerav1_1280x720.yaml
-  camera_name: camerav1_1280x720
-  enable_raw: false
-  exposure_mode: antishake
-  framerate: 90 # high frame-rate to reduce motion blur
-  height: 120
-  width: 160
-  ISO: 800
-
 servos:
   pwm_frequency: 50
   throttle:

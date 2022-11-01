@@ -118,7 +118,8 @@ roslaunch donkey_keras train.launch ... base_model:=/my/model/dir/basemodel
  - Add deadman switch to autonomous mode for safety
  - Support loading training data from multiple ROS bags (currently only supports 1 at a time)
  - Local Web Controller for video streaming and control from a phone/computer
- - Build everything from scratch to make sure I didn't leave out some crucial steps in setup (probably did, sorry)
+ - Build everything from scratch to make sure I didn't leave out some crucial steps in setup (probably did, sorry)]
+ - http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Melodic%20on%20the%20Raspberry%20Pi
 
 ## Maintainers
 
